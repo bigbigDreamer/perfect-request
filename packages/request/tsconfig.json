@@ -1,0 +1,7 @@
+{
+    "extends": "../../tsconfig.json",
+    "compilerOptions": {
+        "outDir": "."
+    },
+    "exclude": ["rollup.config.js", "babel.config.js"]
+}

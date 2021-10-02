@@ -1,0 +1,19 @@
+{
+    "name": "perfect-request",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "gulp clean && rollup -c",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "publishConfig": {
+        "access": "public"
+    },
+    "license": "ISC",
+    "files": [
+        "dist",
+        "es"
+    ]
+}
