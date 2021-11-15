@@ -15,5 +15,8 @@
     "files": [
         "dist",
         "es"
-    ]
+    ],
+    "dependencies": {
+        "axios": "^0.22.0"
+    }
 }

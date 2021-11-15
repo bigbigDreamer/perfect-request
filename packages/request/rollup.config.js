@@ -12,6 +12,7 @@ export default {
             format: 'esm',
         },
     ],
+    external: ['axios'],
     plugins: [
         resolve({ extensions: ['js', 'ts'] }),
         commonjs(),
